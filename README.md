@@ -1,3 +1,32 @@
+## summit_xl_common (kinetic) - 1.1.3-1
+
+The packages in the `summit_xl_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release summit_xl_common --track kinetic --ros-distro kinetic` on `Wed, 16 May 2018 12:25:21 -0000`
+
+These packages were released:
+- `summit_xl_common`
+- `summit_xl_control`
+- `summit_xl_description`
+- `summit_xl_localization`
+- `summit_xl_navigation`
+- `summit_xl_pad`
+
+Version of package(s) in repository `summit_xl_common`:
+
+- upstream repository: https://github.com/RobotnikAutomation/summit_xl_common.git
+- release repository: https://github.com/RobotnikAutomation/summit_xl_common-release.git
+- rosdistro version: `1.1.2-0`
+- old version: `1.1.3-0`
+- new version: `1.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## summit_xl_common (kinetic) - 1.1.3-0
 
 The packages in the `summit_xl_common` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release summit_xl_common --track kinetic --ros-distro kinetic` on `Tue, 15 May 2018 08:02:50 -0000`
