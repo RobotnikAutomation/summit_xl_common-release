@@ -1,0 +1,12 @@
+Source: ros-kinetic-summit-xl-navigation
+Section: misc
+Priority: extra
+Maintainer: Angel Soriano <asoriano@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-costmap-prohibition-layer, ros-kinetic-move-base, ros-kinetic-teb-local-planner
+Homepage: http://ros.org/wiki/summit_xl_navigation
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-summit-xl-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-costmap-prohibition-layer, ros-kinetic-move-base, ros-kinetic-teb-local-planner
+Description: Navigation launch and config files for Summit XL robot.
