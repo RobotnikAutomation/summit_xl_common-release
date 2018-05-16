@@ -1,0 +1,97 @@
+ros-kinetic-summit-xl-common (1.1.3-1xenial) xenial; urgency=high
+
+  * merging with kinetic-multirobot-devel
+  * Merge branch 'kinetic-devel' into kinetic-multirobot-devel
+  * Merge branch 'indigo-devel-rc' into kinetic-devel
+  * summit_xl_common: updated maintainer and authors
+  * 1.0.10
+
+ -- Angel Soriano <asoriano@robotnik.es>  Mon, 14 May 2018 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.1.2-1xenial) xenial; urgency=high
+
+  * fixed merge conflicts
+  * 1.0.9
+  * updated changelog
+
+ -- Carlos Villar <cvillar@robotnik.es>  Wed, 31 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.1.1-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 23 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.1.0-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 23 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.9-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 23 Aug 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.8-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 11 Jul 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.7-1xenial) xenial; urgency=high
+
+  * updated changelog
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 11 Jul 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.6-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 11 Jul 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.5-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 04 Jul 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.4-1xenial) xenial; urgency=high
+
+  * added dependency
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Wed, 29 Jun 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.3-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 28 Jun 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.2-1xenial) xenial; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 27 Jun 2016 22:00:00 -0000
+
+ros-kinetic-summit-xl-common (1.0.1-1xenial) xenial; urgency=high
+
+  * indigo-1.0.0
+  * Merge branch 'indigo-devel' of https://github.com/RobotnikAutomation/summit_xl_common into indigo-devel
+    Conflicts:
+    summit_xl_localization/launch/navsat_transform_node.launch
+  * New summit_xl_description and summit_xl_pad. HL version still not added
+  * Contributors: Dani Carbonell, mcantero, rguzman
+  * Merge branch 'indigo-devel' of https://github.com/RobotnikAutomation/summit_xl_common into indigo-devel
+    Conflicts:
+    summit_xl_localization/launch/navsat_transform_node.launch
+  * New summit_xl_description and summit_xl_pad. HL version still not added
+  * Contributors: Dani Carbonell, rguzman
+
+ -- Carlos Villar <cvillar@robotnik.es>  Mon, 27 Jun 2016 22:00:00 -0000
+
+
