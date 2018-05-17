@@ -1,0 +1,12 @@
+Source: ros-kinetic-summit-xl-localization
+Section: misc
+Priority: extra
+Maintainer: Angel Soriano <asoriano@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-amcl, ros-kinetic-catkin, ros-kinetic-geographic-msgs, ros-kinetic-geometry-msgs, ros-kinetic-gmapping, ros-kinetic-map-server, ros-kinetic-mavros-msgs, ros-kinetic-message-filters, ros-kinetic-nav-msgs, ros-kinetic-robot-localization, ros-kinetic-robotnik-msgs, ros-kinetic-rosbag, ros-kinetic-roscpp, ros-kinetic-rostest, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-geometry-msgs, ros-kinetic-tf2-ros
+Homepage: http://ros.org/wiki/summit_xl_localization
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-summit-xl-localization
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-amcl, ros-kinetic-geographic-msgs, ros-kinetic-geometry-msgs, ros-kinetic-gmapping, ros-kinetic-map-server, ros-kinetic-mavros-msgs, ros-kinetic-message-filters, ros-kinetic-message-runtime, ros-kinetic-nav-msgs, ros-kinetic-robot-localization, ros-kinetic-robotnik-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-geometry-msgs, ros-kinetic-tf2-ros
+Description: The summit_xl_localization package
