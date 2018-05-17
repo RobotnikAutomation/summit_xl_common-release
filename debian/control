@@ -1,0 +1,12 @@
+Source: ros-kinetic-summit-xl-pad
+Section: misc
+Priority: extra
+Maintainer: Angel Soriano <asoriano@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-robotnik-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Homepage: http://ros.org/wiki/summit_xl_pad
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-summit-xl-pad
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-robotnik-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Description: The summit_xl_pad package allows to control the summit_xl product range (summit_xl, summit_xl_omni, x_wam) teleoperation
